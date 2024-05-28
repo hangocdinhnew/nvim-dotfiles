@@ -20,8 +20,8 @@
     "lazyvim.plugins.extras.editor.trouble-v3"
   ],
   "news": {
-    "NEWS.md": "4944",
+    "NEWS.md": "4964",
     "doc/news.txt": "20099"
   },
-  "version": 4
+  "version": 5
 }
