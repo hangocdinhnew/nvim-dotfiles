@@ -11,6 +11,7 @@
     "lazyvim.plugins.extras.editor.mini-move",
     "lazyvim.plugins.extras.lang.clangd",
     "lazyvim.plugins.extras.lang.cmake",
+    "lazyvim.plugins.extras.lang.go",
     "lazyvim.plugins.extras.lang.java",
     "lazyvim.plugins.extras.lang.json",
     "lazyvim.plugins.extras.lang.markdown",
@@ -21,9 +22,10 @@
     "lazyvim.plugins.extras.ui.mini-animate",
     "lazyvim.plugins.extras.util.mini-hipatterns"
   ],
+  "install_version": 7,
   "news": {
-    "NEWS.md": "6520",
+    "NEWS.md": "10960",
     "doc/news.txt": "20099"
   },
-  "version": 6
+  "version": 8
 }
