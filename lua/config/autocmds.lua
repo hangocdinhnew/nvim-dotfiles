@@ -4,3 +4,5 @@
 
 vim.g.autoformat = false
 vim.b.autoformat = false
+
+vim.lsp.enable("clangd")
