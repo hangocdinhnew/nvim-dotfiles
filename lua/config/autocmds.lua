@@ -7,3 +7,4 @@ vim.b.autoformat = false
 
 vim.lsp.enable("clangd")
 vim.lsp.enable("rust-analyzer")
+vim.lsp.enable("taplo")
