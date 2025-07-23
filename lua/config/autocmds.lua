@@ -6,5 +6,6 @@ vim.g.autoformat = false
 vim.b.autoformat = false
 
 vim.lsp.enable("clangd")
+vim.lsp.enable("jdtls")
 vim.lsp.enable("rust-analyzer")
 vim.lsp.enable("taplo")

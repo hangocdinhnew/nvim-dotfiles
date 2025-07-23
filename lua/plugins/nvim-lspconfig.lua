@@ -77,7 +77,8 @@ return {
               },
             },
           },
-          taplo = {}
+          taplo = {},
+          jdtls = {}
         },
 
         setup = {},
